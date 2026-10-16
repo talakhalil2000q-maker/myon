@@ -1,0 +1,8 @@
+{
+  "name": "my on",
+  "description": "A luxury Zara-style fashion store with premium editorial collections, persistent Firestore backends, secure payment gateway screens, and custom automated WhatsApp order integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
